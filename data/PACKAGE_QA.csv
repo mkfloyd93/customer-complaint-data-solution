@@ -1,0 +1,21 @@
+check,passed,0,1
+Only currently supported operational extracts supplied,True,,
+CS has no severity field,True,,
+CS supports one primary category,True,,
+CS customer can be unavailable when not identifiable,True,,
+Compliance has required lifecycle dates,True,,
+Compliance has no structured CS complaint key,True,,
+Compliance customer can be unavailable,True,,
+Authenticated Digital feedback is separate and extractable,True,,
+No public app-review extract supplied,True,,
+No standalone branch complaint dataset supplied,True,,
+No prebuilt enterprise complaint mapping,True,,
+No invented activity/usage context extracts,True,,
+,,Operational extracts preserved from accepted package,True
+,,Reference dimensions contain useful descriptive attributes without activity metrics,True
+,,"Customer reference avoids balances, transaction behavior, and sensitive demographics",True
+Operational extracts preserved byte-for-byte,True,,
+Customer reference uses agreed restrained schema,True,,
+Branch reference uses agreed restrained schema,True,,
+Product reference uses agreed restrained schema,True,,
+Date reference uses agreed restrained schema,True,,

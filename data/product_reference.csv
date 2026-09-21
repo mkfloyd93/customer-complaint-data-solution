@@ -1,0 +1,12 @@
+product_id,product_name,product_family,customer_segment,active_flag
+P001,Checking,Deposit,Consumer,Y
+P002,Savings,Deposit,Consumer,Y
+P003,Credit Card,Card,Consumer,Y
+P004,Debit Card,Card,Consumer,Y
+P005,Mortgage,Lending,Consumer,Y
+P006,Personal Loan,Lending,Consumer,Y
+P007,Auto Loan,Lending,Consumer,Y
+P008,Online Banking,Digital,Consumer,Y
+P009,Mobile Banking,Digital,Consumer,Y
+P010,Business Checking,Deposit,Business,Y
+P011,Business Lending,Lending,Business,Y

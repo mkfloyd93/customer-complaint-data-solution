@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,market_region,branch_type,active_flag
+B001,Downtown Spokane,Spokane,WA,Spokane Metro,Urban,Y
+B002,South Hill,Spokane,WA,Spokane Metro,Urban,Y
+B003,North Spokane,Spokane,WA,Spokane Metro,Urban,Y
+B004,Spokane Valley,Spokane Valley,WA,Spokane Metro,Suburban,Y
+B005,Liberty Lake,Liberty Lake,WA,Spokane Metro,Suburban,Y
+B006,Cheney,Cheney,WA,West Plains,Community,Y
+B007,Airway Heights,Airway Heights,WA,West Plains,Community,Y
+B008,Post Falls,Post Falls,ID,North Idaho,Suburban,Y
+B009,Coeur d'Alene,Coeur d'Alene,ID,North Idaho,Urban,Y
+B010,Hayden,Hayden,ID,North Idaho,Community,Y
